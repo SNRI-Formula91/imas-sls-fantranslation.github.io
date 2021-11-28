@@ -66,60 +66,34 @@ This *should* be the final result. If you did it like this, you deserve a cookie
 
 #### Frequently Asked Questions: <a name="Frequently Asked Questions"></a>
 
-<details open>
-  <summary>
-  Q: When should we expect a release?
-  </summary>
-  <ul>
-  A: We don't have a definitive answer on that. We're still working on getting the UI translated, and things will be set into high gear once COMMU/Story Mode translation begins, and when we can find some more experienced translators to help. We are still working on getting a solid ground foundation for workflow for several things situated, and we also need to get the word count locked in place before we can approach anyone regarding contributing. Despite the fact that the game is using Unreal Engine 4, we still have some work to do in terms of tool development to help automate the building and testing process. The process of releasing an English fan translation patch that is faithful to the source material, while also not being ripe with machine translation or "Keikaku Means Plan" jank could take months or even years. We are simply a team that is working on this project in their spare time, with no profit incentive involved. The script is pretty long, with 28 idols that have about 12-15 COMMU skits each, plus story content and dialogue from other characters, and this isn't even accounting translating any DLC content that may release.
+##### Q: When should we expect a release?
 
-  TLDR: When it's done.
-  </ul>
-</details>
+**A:** We don't have a definitive answer on that. We're still working on getting the UI translated, and things will be set into high gear once COMMU/Story Mode translation begins, and when we can find some more experienced translators to help. We are still working on getting a solid ground foundation for workflow for several things situated, and we also need to get the word count locked in place before we can approach anyone regarding contributing. Despite the fact that the game is using Unreal Engine 4, we still have some work to do in terms of tool development to help automate the building and testing process. The process of releasing an English fan translation patch that is faithful to the source material, while also not being ripe with machine translation or "Keikaku Means Plan" jank could take months or even years. We are simply a team that is working on this project in their spare time, with no profit incentive involved. The script is pretty long, with 28 idols that have about 12-15 COMMU skits each, plus story content and dialogue from other characters, and this isn't even accounting translating any DLC content that may release.|
 
-<details open>
-  <summary>
-  Q: Which officially supported language option will this patch be based on?
-  </summary>
-  <ul>
-  A: The Japanese version.
-  </ul>
-</details>
+TLDR: When it's done.
 
-<details open>
-  <summary>
-  Q: How can we give support?
-  </summary>
-  <ul>
-  A: If you are an experienced translator, and can provide some sort of track record (Whether that's official or unofficial), feel free to hit us up. If you want to give us monetary support, we aren't accepting cash donations. However, please consider buying a copy of the game for you and maybe a friend (We will have a buying guide up on how to do that soon), and support the official releases and possibly even merchandise. Please support an official English release if one ever does happen. We aren't interested in stepping on anyone's toes, legally speaking, and we aren't releasing material that would infringe copyright laws. We aren't releasing unmodified game files, cheating utilities, or DLC unlocking tools either.
-  </ul>
-</details>
+##### Q: Which officially supported language option will this patch be based on?
 
-<details open>
-  <summary>
-  Q: Will you publicly release any sort of tools, or anything of that sorts which could help translate to other languages?
-  </summary>
-  <ul>
-  A: At some point once the patch is finished (and when the tools have been properly stress-tested), we do indeed have plans on publicly releasing internal development tools (and their source code), translation spreadsheets, and everything else that isn't publicly available that's needed to build a functional translation patch up on a Git repository. For now, these tools will only be available internally to those collaborating, but we do have plans on doing that. It will ideally be under a software license similar to the GPL, to ensure that these tools remain open for anyone to look at and to contribute.
-  </ul>
-</details>
+**A:** The Japanese version.
 
-<details open>
-  <summary>
-    Q: Will you be censoring/altering any content?
-  </summary>
-  <ul>
-  A: **No.** This needs to be *abundantly* clear. Transparency is the best way to go about things, especially with a localization project, where tastes massively differ. Especially as of recently, where "localization" has become a bit of a controversial subject and a dirty word in gaming and anime communities, due to the actions of an infamous few *(Won't name any examples here, sorry)*. We believe that while a certain level of localization is needed to be done to dialogue and other things to make it flow better in a structurally and fundamentally different language, we aren't changing anything that would change the context of characters, events, or sub-cultures that it could have taken influence from, in a way that's respectful to the source material. We recently did a survey regarding how we should handle certain things, and we have an idea on what kinds of practices we should follow. Games are inherently an artistic medium, and moral relativism is ultimately subjective. If you don't like *any* of our creative decisions, *you are free to make your own translation project*, as one would say. If you find anything personally objectionable, take that up with the developers, and not us.
-  </ul>
-</details>
+##### Q: How can we give support?
 
-<details open>
-  <summary>
-    Q: How come the Visual Lessons are harder than I remember?
-  </summary>
-  <ul>
-  A: Due to technical issues, the Visual Lessons button prompts were changed slightly as the original button prompts were designed around Japanese sentence structures, which will not work in English. A compromise had to be made, and this resulted in a slight change to the input prompts that you should ignore. Here is a visual comparison:
+**A:** If you are an experienced translator, and can provide some sort of track record (Whether that's official or unofficial), feel free to hit us up. If you want to give us monetary support, we aren't accepting cash donations. However, please consider buying a copy of the game for you and maybe a friend. Please support an official English release if one ever does happen.
 
-  ![](../assets/VisualLessonComparison.png)
-  </ul>
-</details>
+##### A: Is there any more legal stuff to keep in mind?
+
+**A:** We aren't interested in stepping on anyone's toes, legally speaking, and we aren't releasing material that would infringe copyright laws. We aren't releasing unmodified game files, cheating utilities, or DLC unlocking tools either, so we aren't generating a profit loss for the publishers.
+
+##### Q: Will you publicly release any sort of tools, or anything of that sorts which could help translate to other languages?
+
+**A:** At some point once the patch is finished (and when the tools have been properly stress-tested), we do indeed have plans on publicly releasing internal development tools (and their source code), translation spreadsheets, and everything else that isn't publicly available that's needed to build a functional translation patch up on a Git repository. For now, these tools will only be available internally to those collaborating, but we do have plans on doing that. It will ideally be under a software license similar to the GPL, to ensure that these tools remain open for anyone to look at and to contribute.
+
+##### Q: Will you be censoring/altering any content?
+
+**A:** **No.** This needs to be *abundantly* clear. Transparency is the best way to go about things, especially with a localization project, where tastes massively differ. Especially as of recently, where "localization" has become a bit of a controversial subject and a dirty word in gaming and anime communities, due to the actions of an infamous few *(Won't name any examples here, sorry)*. We believe that while a certain level of localization is needed to be done to dialogue and other things to make it flow better in a structurally and fundamentally different language, we aren't changing anything that would change the context of characters, events, or sub-cultures that it could have taken influence from, in a way that's respectful to the source material. We recently did a survey regarding how we should handle certain things, and we have an idea on what kinds of practices we should follow. Games are inherently an artistic medium, and moral relativism is ultimately subjective. If you don't like *any* of our creative decisions, *you are free to make your own translation project*, as one would say. If you find anything personally objectionable, take that up with the developers, and not us.
+
+##### Q: How come the Visual Lessons are harder than I remember?
+
+**A:** Due to technical issues, the Visual Lessons button prompts were changed slightly as the original button prompts were designed around Japanese sentence structures, which will not work in English. A compromise had to be made, and this resulted in a slight change to the input prompts that you should ignore. Here is a visual comparison:
+
+![](../assets/VisualLessonComparison.png)
