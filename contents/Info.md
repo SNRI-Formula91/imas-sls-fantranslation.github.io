@@ -14,26 +14,36 @@ The game unfortunately is region locked (including playing through Steam Family 
 ***Prerequisites:***
 
 * A VPN that can give you a *Japanese* IP address (You can either use [OpenVPN](https://openvpn.net/vpn-client/) with a [Server Finder](https://addons.mozilla.org/en-US/firefox/addon/free-openvpn-server-finder/https:/) if you don't particularly care about anonymity/security, or you can use a paid VPN service like [ProtonVPN](https://protonvpn.com/) for this), which will be needed during the process of creating a new Steam account. This guide is written under the assumption that you know the basics of how to work with a computer, so come back when you have this set up.
+
 * *About* $105 to spend on a WebMoney card. [You can buy one from PlayAsia.](https://www.play-asia.com/webmoney-10000-point-card/13/70dw33) Even if you'll only be spending *about* $90 (excluding Japanese sales tax) of that on the game.
+
 * If you are extra paranoid about your system being tied back to your main Steam account, a Virtual Machine or sandbox environment containing any operating system that runs Steam (Although this guide is written under the assumption you use Windows). [VirtualBox](https://www.virtualbox.org/), [VMWare Workstation Player](https://www.vmware.com/products/workstation-player.html), GNOME Boxes (If you are using Linux), or Microsoft's built-in virtualization tools (Hyper-V Manager and/or Windows Sandbox) are a few examples of Virtual Machine environments you can use for extra security. For brevity, this guide won't be covering that process.
 
 **With those things taken care of, here's a guide (with some images) on the process of buying the Japanese release:**
 
 1. Make sure to connect to the Japanese VPN server, and if using a Virtual Machine, install the Steam Client using the Japanese language in the install process (Just to be safe, although you can always change your preferred language later without affecting your Steam account region).
+
 2. When you reach the Steam login screen, press the lowest button to create an account.
    ![](../assets/SteamLoginCreateAccount.png)
+
 3. Follow the process in this image to create a Japanese Steam account.
    ![](../assets/CreateJPSteamAccount.png)
+
 4. After you find the game on Steam [(You can easily grab the game here)](https://store.steampowered.com/app/1046480), add it to your cart, and check out. For the example going onwards, Persona 4 Golden will be used as an example, but the process is the same for this game.
    ![](../assets/Checkout.png)
+
 5. When selecting the payment method, select *"WebMoney"* as the payment method.
    ![](../assets/SelectWebMoney.png)
+
 6. Afterwards, follow the process here to enter the Deliga checkout that is used for WebMoney. A new window should open for this process.
    ![](../assets/EnterDeligaCheckout.png)
+
 7. In the meantime, go to the order page for the WebMoney you bought, and then click the *"Show Code"* button and confirm with the notice that appears to get the WebMoney code that will be used in the next step. Make sure to copy it down somewhere.
    ![](../assets/ShowCodePlayAsia.png)
+
 8. In the Deliga checkout window that appears, enter in the WebMoney code and press the green button afterwards.
    ![](../assets/EnterWebMoneyCode.png)
+
 9. From here on, the process should be like buying any average game through your region on Steam. Finish the checkout process.
 
 After the process has been finished and the game appears in the Steam Library, ***Congratulations!*** You've *officially* bought the game and supported the developers! All that needs to be done now is installing the game!
@@ -41,9 +51,12 @@ After the process has been finished and the game appears in the Steam Library, *
 #### Installation Instructions: <a name="Installation Instructions"></a>
 
 1. Download the English Patch (This will likely be in a ``.zip`` archive), and open it with either Windows' built-in ZIP file viewer/extractor, 7-Zip, WinRAR, or the dozens of other alternatives available for creating/extracting compressed archive files.
+
 2. Go to the game boxart (Or just the game's title on the list view) on Steam, and right click it, then go to *"Browse Local Files"*, which can be found in the *"Manage"* portion of the context menu.
+
 3. Enter the ``StarlitSeason`` directory of where the game is installed, then enter the ``Content`` directory, and then finally the ``Paks`` directory.
 4. Create a folder called ``~mods`` inside of the ``Paks`` directory, and enter it. Make sure that the "~" exists, otherwise, the patch won't load.
+
 5. Extract ``pakchunk99-EngPatch.pak`` and ``pakchunk99-EngPatch.sig`` into the newly created "~mods" folder we just made.
 
 This *should* be the final result. If you did it like this, you deserve a cookie:
