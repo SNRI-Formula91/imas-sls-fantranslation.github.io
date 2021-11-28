@@ -1,4 +1,9 @@
-#### How to buy the Game (Before using our English Patch):
+# Table of contents:
+1. [How to buy the game (Before using our English Patch)](#How to buy the game)
+2. [Installation Instructions](#Installation Instructions)
+3. [Frequently Asked Questions](#Frequently Asked Questions)
+
+#### How to buy the Game (Before using our English Patch): <a name="How to buy the Game"></a>
 
 The game unfortunately is region locked (including playing through Steam Family Sharing), which requires you to either log into the account with the game to play or use a Steam API emulator (Which due to the legally gray area of that process, won't be covered here) if you can't be bothered to constantly switch accounts. This guide is written under the assumption that you are going to be buying the game from the Japanese Steam storefront. For technicality (and payment processing) reasons, this guide doesn't cover buying with the Taiwan/Singapore/Korean version's pricing. As of currently, buying the Japanese version costs more, but is the most convenient (due to how Steam doesn't deny using a gift card as a payment method, due to that being a prominent way of paying for digital games in Japan) to set up.
 
@@ -29,7 +34,7 @@ The game unfortunately is region locked (including playing through Steam Family 
 
 After the process has been finished and the game appears in the Steam Library, ***Congratulations!*** You've *officially* bought the game and supported the developers! All that needs to be done now is installing the game!
 
-#### Installation Instructions:
+#### Installation Instructions: <a name="Installation Instructions"></a>
 
 1. Download the English Patch (This will likely be in a ``.zip`` archive), and open it with either Windows' built-in ZIP file viewer/extractor, 7-Zip, WinRAR, or the dozens of other alternatives available for creating/extracting compressed archive files.
 2. Go to the game boxart (Or just the game's title on the list view) on Steam, and right click it, then go to *"Browse Local Files"*, which can be found in the *"Manage"* portion of the context menu.
@@ -42,7 +47,7 @@ This *should* be the final result. If you did it like this, you deserve a cookie
 
 ***Congratulations!*** The English patch is now installed! Feel free to check up on updates on the patch in case any future game updates on Steam breaks things.
 
-#### Frequently Asked Questions:
+#### Frequently Asked Questions: <a name="Frequently Asked Questions"></a>
 
 <details open>
   <summary>
