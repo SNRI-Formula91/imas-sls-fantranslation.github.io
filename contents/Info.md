@@ -1,4 +1,3 @@
-% Installation/Buying Instructions and Frequently Asked Questions
 
 # Table of contents:
 1. [How to buy the game (Before using our English Patch)](#How to buy the game)
