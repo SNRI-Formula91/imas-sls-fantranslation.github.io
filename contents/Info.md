@@ -5,7 +5,7 @@ title: Install/Buying Instructions and Frequently Asked Questions
 ## Table of contents:
 1. [How to buy the game (Before using our English Patch)](#How to buy the game)
 2. [Installation Instructions](#Installation Instructions)
-3. [Frequently Asked Questions](#Frequently Asked Questions)
+3. [Frequently Asked Questions](#Frequently Asked Questions)|
 
 #### How to buy the Game (Before using our English Patch): <a name="How to buy the Game"></a>
 
@@ -68,7 +68,7 @@ This *should* be the final result. If you did it like this, you deserve a cookie
 
 ##### Q: When should we expect a release?
 
-**A:** We don't have a definitive answer on that. We're still working on getting the UI translated, and things will be set into high gear once COMMU/Story Mode translation begins, and when we can find some more experienced translators to help. We are still working on getting a solid ground foundation for workflow for several things situated, and we also need to get the word count locked in place before we can approach anyone regarding contributing. Despite the fact that the game is using Unreal Engine 4, we still have some work to do in terms of tool development to help automate the building and testing process. The process of releasing an English fan translation patch that is faithful to the source material, while also not being ripe with machine translation or "Keikaku Means Plan" jank could take months or even years. We are simply a team that is working on this project in their spare time, with no profit incentive involved. The script is pretty long, with 28 idols that have about 12-15 COMMU skits each, plus story content and dialogue from other characters, and this isn't even accounting translating any DLC content that may release.|
+**A:** We don't have a definitive answer on that. We're still working on getting the UI translated, and things will be set into high gear once COMMU/Story Mode translation begins, and when we can find some more experienced translators to help. We are still working on getting a solid ground foundation for workflow for several things situated, and we also need to get the word count locked in place before we can approach anyone regarding contributing. Despite the fact that the game is using Unreal Engine 4, we still have some work to do in terms of tool development to help automate the building and testing process. The process of releasing an English fan translation patch that is faithful to the source material, while also not being ripe with machine translation or "Keikaku Means Plan" jank could take months or even years. We are simply a team that is working on this project in their spare time, with no profit incentive involved. The script is pretty long, with 28 idols that have about 12-15 COMMU skits each, plus story content and dialogue from other characters, and this isn't even accounting translating any DLC content that may release.
 
 TLDR: When it's done.
 
