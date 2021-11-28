@@ -1,123 +1,28 @@
 ---
 layout: default
 ---
+This site is the home of the Idolm@ster: Starlit Season Fan Translation Project.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[*Install Instructions, Buying Instructions, and Frequently Asked Questions can be found here.*](/contents/Info.html)
 
-[Link to another page](./another-page.html).
+## Legal Information
 
-There should be whitespace between paragraphs.
+As of currently, this is a UI only preview build of the Starlit Season English Fan Translation Patch.
+***This preview build is currently tested to work with version 1.10 of Starlit Season on Steam.***
+It is incomplete, and not guaranteed to work on pirated copies. We can only give an estimated timeframe of *"when it's done"*.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+***Please*** support the developers by [***buying the game using our buying guide***](/contents/Info.html), and by buying any official localization effort if one happens. Distributing game software through the internet without permission from the rights holder,
+or downloading illegally distributed software through the internet is copyright infringement, and we ask you to **not** redistribute *any* of our patches outside of our official sources.
 
-# Header 1
+We thank you for your patience and understanding.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Staff
 
-## Header 2
+Project Lead: KingKrouch
+Translation: Formula91, Nameless Gentleman, Kubakerlin, Foas, PSP, KingKrouch
+COMMU Translation: Grant
+Editing and Translation Asssistance: KingKrouch, Setsuna, PSP
+Proofreading and Testing (Quality Assurance): Setsuna, TheTanStar
+Tool Development and Automation Utilities: Faraplay, Skyvlan, Formula91, Foas, ToastyBuns, KingKrouch
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Eventually, when COMMU translation further develops, the staff credits will also list senior translators, alongside separating UI and COMMU translators.
