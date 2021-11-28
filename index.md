@@ -19,10 +19,16 @@ We thank you for your patience and understanding.
 ### Staff
 
 Project Lead: KingKrouch
+
 Translation: Formula91, Nameless Gentleman, Kubakerlin, Foas, PSP, KingKrouch
-COMMU Translation: Grant
+
+COMMU Translation: Grant, Formula91
+
 Editing and Translation Asssistance: KingKrouch, Setsuna, PSP
+
 Proofreading and Testing (Quality Assurance): Setsuna, TheTanStar
+
 Tool Development and Automation Utilities: Faraplay, Skyvlan, Formula91, Foas, ToastyBuns, KingKrouch
+
 
 Eventually, when COMMU translation further develops, the staff credits will also list senior translators, alongside separating UI and COMMU translators.
