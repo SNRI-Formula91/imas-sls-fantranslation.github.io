@@ -5,7 +5,7 @@ This site is the home of the Idolm@ster: Starlit Season Fan Translation Project.
 
 [*Install Instructions, Buying Instructions, and Frequently Asked Questions can be found here.*](/contents/Info.html)
 
-## Legal Information
+### Legal Information:
 
 As of currently, this is a UI only preview build of the Starlit Season English Fan Translation Patch.
 ***This preview build is currently tested to work with version 1.10 of Starlit Season on Steam.***
@@ -16,19 +16,18 @@ or downloading illegally distributed software through the internet is copyright 
 
 We thank you for your patience and understanding.
 
-### Staff
+### Staff:
 
-Project Lead: KingKrouch
+**Project Lead:** KingKrouch
 
-Translation: Formula91, Nameless Gentleman, Kubakerlin, Foas, PSP, KingKrouch
+**Translation:** Formula91, Nameless Gentleman, Kubakerlin, Foas, PSP, KingKrouch
 
-COMMU Translation: Grant, Formula91
+**COMMU Translation:** Grant, Formula91, ToastyBuns
 
-Editing and Translation Asssistance: KingKrouch, Setsuna, PSP
+**Editing and Translation Asssistance:** KingKrouch, Setsuna, PSP
 
-Proofreading and Testing (Quality Assurance): Setsuna, TheTanStar
+**Proofreading and Testing (Quality Assurance):** Setsuna, TheTanStar
 
-Tool Development and Automation Utilities: Faraplay, Skyvlan, Formula91, Foas, ToastyBuns, KingKrouch
+**Tool Development and Automation Utilities:** Faraplay, Skyvlan, Formula91, Foas, ToastyBuns, KingKrouch
 
-
-Eventually, when COMMU translation further develops, the staff credits will also list senior translators, alongside separating UI and COMMU translators.
+*Eventually, when COMMU translation further develops, the staff credits will also list senior translators, alongside separating UI and COMMU translators.*
