@@ -53,7 +53,7 @@ After the process has been finished and the game appears in the Steam Library, *
 This *should* be the final result. If you did it like this, you deserve a cookie:
 ![](../assets/FolderLayout.png)
 
-***Congratulations!*** The English patch is now installed! Feel free to check up on updates on the patch in case any future game updates on Steam breaks things.
+***Congratulations!*** The English patch is now installed! Feel free to check up on updates on the patch in case any future game updates on Steam breaks things. If the installation was done incorrectly, the auto-save notice before the title screen won't be in English.
 
 #### Frequently Asked Questions: <a name="Frequently Asked Questions"></a>
 
