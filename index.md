@@ -18,7 +18,9 @@ We thank you for your patience and understanding.
 
 ### Staff:
 
-**Project Lead:** KingKrouch
+**Project Lead:** Formula91
+
+**Supervisory Role:** KingKrouch
 
 **Translation:** Formula91, Nameless Gentleman, Kubakerlin, Foas, PSP, KingKrouch
 
