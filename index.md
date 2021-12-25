@@ -34,4 +34,6 @@ We thank you for your patience and understanding.
 
 *Eventually, when COMMU translation further develops, the staff credits will also list senior translators, alongside separating UI and COMMU translators.*
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSBfTjRTKdpgisXulfLNuTkU28Fu7nXmhjpSIrIpcweZhm3JaSEu3Ji5A-yyF93wkeAvmh6oiNR9uMU/pubhtml?gid=1039530774&amp;single=true&amp;widget=true&amp;headers=false%22%3E</iframe>
+<iframe
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSBfTjRTKdpgisXulfLNuTkU28Fu7nXmhjpSIrIpcweZhm3JaSEu3Ji5A-yyF93wkeAvmh6oiNR9uMU/pubhtml?gid=1039530774&amp;single=true&amp;widget=true&amp;headers=false%22%3E"
+></iframe>
