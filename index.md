@@ -8,7 +8,7 @@ This site is the home of the Idolm@ster: Starlit Season Fan Translation Project.
 ### Legal Information:
 
 As of currently, this is a UI only preview build of the Starlit Season English Fan Translation Patch.
-***This preview build is currently tested to work with version 1.21 of Starlit Season on Steam.***
+***This preview build is currently tested to work with version 1.61 of Starlit Season on Steam.***
 It is incomplete, and not guaranteed to work on pirated copies. We can only give an estimated timeframe of *"when it's done"*.
 
 ***Please*** support the developers by [***buying the game using our buying guide***](/contents/Info.html), and by buying any official localization effort if one happens. Distributing game software through the internet without permission from the rights holder,
