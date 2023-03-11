@@ -59,9 +59,9 @@ This *should* be the final result. If you did it like this, you deserve a cookie
 
 ##### Q: When should we expect a release?
 
-**A:** We don't have a definitive answer on that. We're still working on getting the UI translated, and things will be set into high gear once COMMU/Story Mode translation begins, and when we can find some more experienced translators to help. We are still working on getting a solid ground foundation for workflow for several things situated, and we also need to get the word count locked in place before we can approach anyone regarding contributing. Despite the fact that the game is using Unreal Engine 4, we still have some work to do in terms of tool development to help automate the building and testing process. The process of releasing an English fan translation patch that is faithful to the source material, while also not being ripe with machine translation or "Keikaku Means Plan" jank could take months or even years. We are simply a team that is working on this project in their spare time, with no profit incentive involved. The script is pretty long, with 26 COMMU sequences for 32 different characters, and this isn't even accounting translating any job COMMUs or DLC content that may release.
+**A:** We don't have a definitive answer on that. We're still working on getting the UI translated, and things will be set into high gear once COMMU/Story Mode translation begins, and when we can find some more experienced translators to help. We are still working on getting a solid ground foundation for workflow for several things situated, and we also need to get the word count locked in place before we can approach anyone regarding contributing. Despite the fact that the game is using Unreal Engine 4, we still have some work to do in terms of tool development to help automate the building and testing process. The process of releasing an English fan translation patch that is faithful to the source material, while also not being ripe with machine translation or "Keikaku Means Plan" translation notes could take months or even years. We are simply a team that is working on this project in their spare time with no profit incentive involved. The game itself has a massive amount of text with each chapter having anywhere between 1300-2000 lines on top of other content such as bonding, work, and other easter egg type COMMU sequences. This would easily take almost a year with a professional localization team, so do not expect the same kind of progress with passional part-timers!
 
-TLDR: When it's done.
+TLDR: It's done when it's done.
 
 ##### Q: Which officially supported language option will this patch be based on?
 
@@ -88,3 +88,9 @@ TLDR: When it's done.
 **A:** Due to technical issues, the Visual Lessons button prompts were changed slightly as the original button prompts were designed around Japanese sentence structures, which will not work in English. A compromise had to be made, and this resulted in a slight change to the input prompts that you should ignore. Here is a visual comparison:
 
 ![](../assets/VisualLessonComparison.png)
+
+##### Q: I want to play this game with mods, but are you aware of any conflicts?
+
+**A:** Because of the massive amount of text that is being overwritten and replaced, there definitely will be conflicts. As more things are translated and the scope of the project expands, we can expect more conflicts to be found and disclosed here. So far, based on the most commonly used mods, we can expect the following:
+* Mods that replace costumes will have their costume descriptions replaced by whatever description is provided by the mod author. 
+<br>Overall a very low impact conflict.
